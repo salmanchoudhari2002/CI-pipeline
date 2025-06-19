@@ -1,7 +1,7 @@
 numpy
 pandas
 flask
-scipy
+sklearn.linear_model
 OS
 logging
-requests
+scikit-learn
