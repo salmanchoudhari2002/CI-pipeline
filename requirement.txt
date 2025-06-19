@@ -1,0 +1,6 @@
+numpy
+pandas
+flask
+sklearn.linear_model
+OS
+logging
