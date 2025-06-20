@@ -1,6 +1,5 @@
 numpy
 pandas
 flask
-sklearn.linear_model
 logging
-scikit-learn
+scikit-learndone
